@@ -1,2 +1,2 @@
-# Digital_clock_useState
+# increment_decrement_useState_Counter
 Created with CodeSandbox
